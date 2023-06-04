@@ -39,6 +39,7 @@ li {
     text-transform: uppercase;
     background-color: #FFFFFF;
     text-align: center;
+    cursor: pointer;
 }
 
 /* Conteúdo */
